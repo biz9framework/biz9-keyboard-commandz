@@ -23,13 +23,34 @@ Linux commandZ you must know to operate effecentialy as a BiZ9 Framework Develop
 #### [9_open_mongoshell](#aa)
 #### [9_open_diff_file](#aa)
 #### [9_open_diff_folder](#aa)
+#### [9_open_unzip](#aa)
+#### [9_open_gzip](#aa)
+#### [9_open_bz2](#aa)
+#### [9_open_zip_create](#aa)
+#### [9_open_calc](#aa)
+#### [9_open_calendar](#aa)
+#### [9_git_init](#aa)
+#### [9_git_config](#aa)
+#### [9_git_commit](#aa)
+#### [9_git_push](#aa)
+#### [9_git_hub_test](#aa)
+#### [9_ec2_connect](#aa)
 #### [9_biz9_app_push](#aa)
+#### [9_ec2_push](#aa)
 #### [9_biz9_app_push](#aa)
+#### [9_ec2_deploy](#aa)
 #### [9_biz9_app_push](#aa)
-#### [9_biz9_app_push](#aa)
-#### [9_biz9_app_push](#aa)
-#### [9_biz9_app_push](#aa)
-#### [9_biz9_app_push](#aa)
+#### [9_ec2_test_push](#aa)
+
+#### [9_mongo_dump](#aa)
+#### [9_mongo_list_dump](#aa)
+#### [9_mongo_view_dump](#aa)
+#### [9_mongo_restore](#aa)
+#### [9_mongo_shell](#aa)
+#### [9_mongo_start](#aa)
+
+
+
 
 
 
